@@ -1,0 +1,7 @@
+This is built with ReactJs and is located in the frontend directory.
+
+Navigate and open to the Frontend Directory:
+
+Open terminal and write 
+
+cd frontend -> npm run dev 
